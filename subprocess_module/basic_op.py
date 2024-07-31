@@ -1,3 +1,4 @@
 import subprocess
-subprocess.run("dir",shell=True)
+
+subprocess.run(["python","timer.py","7"])
 
