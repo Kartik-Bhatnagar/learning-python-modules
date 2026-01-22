@@ -1,0 +1,9 @@
+22-01-2026 17:17  | INFO |-> The code reched here
+22-01-2026 17:17  | WARNING |-> Oops there is some warning
+22-01-2026 17:18  | CRITICAL |-> THere we have a critical issue to look
+22-01-2026 17:19:23  | INFO |-> The code reched here
+22-01-2026 17:19:23  | WARNING |-> Oops there is some warning
+22-01-2026 17:19:23  | CRITICAL |-> THere we have a critical issue to look
+22-01-2026 17:49:43  | INFO |-> The code reched here
+22-01-2026 17:49:44  | WARNING |-> Oops there is some warning
+22-01-2026 17:49:45  | CRITICAL |-> THere we have a critical issue to look
